@@ -1,4 +1,4 @@
-# Inoovation Day with Kafka Streams
+# Inovation Day with Kafka Streams
 
 ```
 docker compose up
